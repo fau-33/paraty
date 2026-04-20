@@ -1,1 +1,1 @@
-# Aplicativo de Cidade de Paraty
+# Aplicativo Cidade de Paraty
